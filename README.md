@@ -12,6 +12,8 @@ I am from Granada, Spain, and I am a multiplatform application developer, specia
 <a href="https://github.com/RaulPachecoo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulPachecoo&theme=radical&hide=glsl,python" />
 </a>
+
+
 ---
 [![RaulPachecoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulPachecoo)](https://github.com/RaulPachecoo/github-readme-stats)
 
