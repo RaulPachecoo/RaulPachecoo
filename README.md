@@ -1,5 +1,6 @@
 ### Hi, I'm Raúl 👋
 [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ra%C3%BAl-pacheco-ropero-8b3a582ab/)](https://www.linkedin.com/in/ra%C3%BAl-pacheco-ropero-8b3a582ab/)
+
 Welcome to my page!
 I am from Granada, Spain, and I am a multiplatform application developer, specialized in Java, with knowledge in mobile application development and web pages.
 
