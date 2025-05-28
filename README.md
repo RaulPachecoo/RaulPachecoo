@@ -2,7 +2,8 @@
 
 
 Welcome to my page!
-I'm from Granada, Spain. I'm a web, Android, and software developer specialized in Laravel and Java, with additional experience in mobile application development.
+I'm from Granada, Spain. I'm a web, Android, and software developer specialized in Laravel and Java, with experience in mobile application development.
+I stand out for my strong learning ability and dedication to hard work.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raúl-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ra%C3%BAl-pacheco-ropero-8b3a582ab/)](https://www.linkedin.com/in/ra%C3%BAl-pacheco-ropero-8b3a582ab/)
